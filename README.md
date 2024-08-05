@@ -1,4 +1,4 @@
-![logo](https://github.com/MFaisal125/MFaisal125/blob/main/Github%20Banner.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
 <h3 align="center">A passionate Full Stack Mern developer from Pakistan</h3>
 
