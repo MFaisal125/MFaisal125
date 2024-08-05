@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Hotel Booking Website](https://mfaisal125.github.io/resume/)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning  [Nextjs](https://nextjs.org/)
 
 - 👯 I’m looking to collaborate on [Collage Website](https://mfaisal125.github.io/resume2/)
 
