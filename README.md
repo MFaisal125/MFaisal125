@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Mern developer from Pakistan</h3>
 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><img href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</img></p>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/200w.webp?cid=ecf05e473o0lucy29xlpph11gqsmuu9l67d4m3wnrl8epzk6&ep=v1_gifs_related&rid=200w.webp&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaisal125&label=Profile%20views&color=0e75b6&style=flat" alt="mfaisal125" /> </p>
 
