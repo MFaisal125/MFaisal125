@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Mern developer from Pakistan</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/200w.webp?cid=ecf05e473o0lucy29xlpph11gqsmuu9l67d4m3wnrl8epzk6&ep=v1_gifs_related&rid=200w.webp&ct=g"/>
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFuMHV1bzN3bGgzcjdkM2ljaWYyam1lM296YTg5MzZvaG10NTdjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehWUI4Jgpyf8sVWYdn/giphy.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaisal125&label=Profile%20views&color=0e75b6&style=flat" alt="mfaisal125" /> </p>
 
