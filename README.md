@@ -1,6 +1,6 @@
 ![logo](https://github.com/MFaisal125/MFaisal125/blob/main/Github%20Banner.png)
 <h1 align="center">Hi, I'm Muhammad Faisal</h1>
-<h3 align="center">A passionate Full Stack Mern developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFuMHV1bzN3bGgzcjdkM2ljaWYyam1lM296YTg5MzZvaG10NTdjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehWUI4Jgpyf8sVWYdn/giphy.webp"/>
