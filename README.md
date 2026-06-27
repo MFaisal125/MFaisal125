@@ -62,10 +62,6 @@ A results-driven **Full Stack Software Engineer** and **Co-Founder of Winflect**
 - 🎓 **[LMS Master](https://lms-master.vercel.app/)** — AI-Powered Learning Management System
 - 🤝 **[CallMe2Serve](https://callme2serve.com/)** — Professional Services Marketplace
 
-**🎓 Education & Credentials**
-- BS Information Technology — University of Punjab, Lahore (2024)
-- 🔐 **Certified Ethical Hacker (CEH)** — EC-Council ✅
-
 **💡 Core Expertise**
 - System Architecture & API Design
 - SaaS Product Engineering
@@ -90,16 +86,6 @@ A results-driven **Full Stack Software Engineer** and **Co-Founder of Winflect**
 </td>
 </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
-
-## 🏆 GitHub Achievement Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mfaisal125&theme=nord&no-bg=true&no-frame=true&margin-w=10&margin-h=8&row=1&column=7" alt="GitHub Trophies"/>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -430,5 +416,5 @@ As a **CEH-certified** engineer, I bring a security-first approach to every line
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00D2FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+✨+|+mfaisal441254%40gmail.com;🚀+Building+the+future+one+commit+at+a+time...;⭐+If+you+like+my+work%2C+leave+a+star!" alt="Footer typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00D2FF&center=true&vCenter=true&repeat=true&width=580&lines=Thanks+for+visiting!+%7C+mfaisal441254%40gmail.com;Building+the+future+one+commit+at+a+time...;If+you+like+my+work%2C+leave+a+star+%E2%AD%90;Let%27s+connect+and+build+together+%F0%9F%9A%80" alt="Footer typing"/>
 </p>
