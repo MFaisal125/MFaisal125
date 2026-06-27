@@ -1,79 +1,102 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--            MUHAMMAD FAISAL | GITHUB PROFILE          -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--            MUHAMMAD FAISAL ✦ ELITE DEVELOPER PROFILE          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ───── HERO WAVE HEADER ───── -->
+<!-- ══ HERO HEADER ══ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Faisal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Co-Founder%20@%20Winflect%20%7C%20Full%20Stack%20Engineer%20%7C%20CEH%20Certified&descAlignY=58&descSize=16" alt="Header Wave" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Muhammad%20Faisal&fontSize=56&fontColor=00d2ff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%40%20Winflect%20%7C%20Full%20Stack%20Engineer%20%7C%20CEH%20Certified&descAlignY=60&descSize=17&descColor=a0c4ff" width="100%"/>
 </p>
 
-<!-- ───── ANIMATED TYPING SUBTITLE ───── -->
+<!-- ══ ANIMATED TYPING ══ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=55&lines=%F0%9F%9A%80+Building+SaaS+platforms+at+Winflect;%F0%9F%A7%A0+Architecting+AI-powered+learning+systems;%F0%9F%94%90+Certified+Ethical+Hacker+%7C+CEH+%E2%9C%85;%E2%9A%A1+MERN+Stack+%7C+Next.js+%7C+TypeScript+Expert;%F0%9F%8C%8D+Open+to+Collaboration+%26+Contracts" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&width=700&height=60&lines=🚀+Co-Founder+%40+Winflect+—+Enterprise+SaaS;🧠+Architecting+AI-Powered+LMS+%26+EdTech;🔐+Certified+Ethical+Hacker+(CEH)+✅;⚡+MERN+%7C+Next.js+%7C+TypeScript+%7C+AWS;🌍+Pakistan+%7C+Building+Global+Products;💼+Open+to+Contracts+%26+Collaborations" alt="Typing SVG"/>
   </a>
 </p>
 
-<!-- ───── SOCIAL BADGES ROW ───── -->
+<!-- ══ SOCIAL BADGES ══ -->
 <p align="center">
   <a href="https://linkedin.com/in/m-faisal125/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
+  </a>&nbsp;
   <a href="mailto:mfaisal441254@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
+  </a>&nbsp;
   <a href="https://winflect.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Winflect-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Winflect"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/MFaisal125" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=mfaisal125&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/Winflect-%230f0c29?style=for-the-badge&logo=vercel&logoColor=00d2ff" alt="Winflect"/>
+  </a>&nbsp;
+  <a href="https://lms-master.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/LMS%20Master-302b63?style=for-the-badge&logo=bookstack&logoColor=00d2ff" alt="LMS Master"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mfaisal125&style=for-the-badge&color=302b63&label=PROFILE+VIEWS&labelColor=0f0c29"/>
 </p>
 
-<!-- ───── STATUS BADGES ───── -->
+<!-- ══ STATUS PILLS ══ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&logo=statuspage&logoColor=white" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/Location-Pakistan%20🇵🇰-38BDF8?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-f59e0b?style=flat-square&logo=clockify&logoColor=white" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Role-Co--Founder%20%40%20Winflect-8b5cf6?style=flat-square&logo=buffer&logoColor=white" alt="Role"/>
-  <img src="https://img.shields.io/badge/Security-CEH%20Certified-ef4444?style=flat-square&logo=hackthebox&logoColor=white" alt="CEH"/>
+  <img src="https://img.shields.io/badge/💼_Status-Open%20to%20Work-00d2ff?style=flat-square&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/📍_Location-Gujranwala%2C%20Pakistan%20🇵🇰-302b63?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🧠_Role-Co--Founder%20%40%20Winflect-302b63?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🔐_Security-CEH%20Certified%20✅-00d2ff?style=flat-square&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/⏳_Experience-4%2B%20Years-302b63?style=flat-square"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-## 🧬 About Me
+## 🧬 Who Am I?
+
+<table border="0" width="100%">
+<tr>
+<td width="58%" valign="top">
 
 ```ts
 const MuhammadFaisal = {
-  role:          "Co-Founder @ Winflect | Full Stack Engineer",
-  location:      "Gujranwala, Pakistan 🇵🇰",
-  education:     "BS Information Technology — University of Punjab, Lahore (2024)",
-  certification: "Certified Ethical Hacker (CEH) — EC-Council ✅",
-  currentFocus:  ["Building LMS Master (AI-powered EdTech SaaS)",
-                  "Scaling Winflect enterprise platform",
-                  "Exploring AI/LLM integrations in production apps"],
-  expertise:     ["System Architecture", "API Design", "SaaS Development",
-                  "Performance Optimization", "Application Security"],
-  funFact:       "I architect systems that serve thousands before breakfast ☕",
-  contact:       "mfaisal441254@gmail.com",
+  title   : "Co-Founder @ Winflect | Full Stack Engineer",
+  location: "Gujranwala, Pakistan 🇵🇰",
+  education: "BS Information Technology",
+             // University of Punjab (PU, Lahore) — 2024
+  security: "Certified Ethical Hacker (CEH) — EC-Council ✅",
+
+  currentBuilds: [
+    "Winflect — Enterprise SaaS Platform",
+    "LMS Master v2 — AI Learning System",
+    "CallMe2Serve — Services Marketplace",
+  ],
+
+  expertise: [
+    "System Architecture & API Design",
+    "SaaS Product Engineering",
+    "AI & LLM Integration",
+    "Performance Optimization",
+    "Web Application Security",
+  ],
+
+  contact : "mfaisal441254@gmail.com",
+  motto   : "Code with purpose. Ship with confidence. 🚀",
 };
 ```
+
+</td>
+<td width="42%" valign="top" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFuMHV1bzN3bGgzcjdkM2ljaWYyam1lM296YTg5MzZvaG10NTdjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehWUI4Jgpyf8sVWYdn/giphy.webp" width="100%" style="max-width:340px; border-radius:16px;" alt="Coding GIF"/>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/🌐-winflect.com-00d2ff?style=for-the-badge&labelColor=0f0c29"/><br/>
+  <img src="https://img.shields.io/badge/📧-mfaisal441254@gmail.com-302b63?style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Achievement Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mfaisal125&theme=algolia&no-bg=true&no-frame=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mfaisal125&theme=nord&no-bg=true&no-frame=true&margin-w=10&margin-h=8&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -84,56 +107,55 @@ const MuhammadFaisal = {
 
 <div align="center">
 
-| Project | Category | Status | Impact |
-|:-------:|:--------:|:------:|:------:|
-| [🏢 Winflect](https://winflect.com/) | SaaS Platform | 🟢 Live | Co-Founder |
-| [🎓 LMS Master](https://lms-master.vercel.app/) | AI EdTech | 🟢 Live | 1000+ Users |
-| [🤝 CallMe2Serve](https://callme2serve.com/) | Marketplace | 🟢 Live | Active |
-| [🏨 Hotel Booking](https://next-hotel-app.vercel.app/) | Hospitality | 🟢 Live | Production |
-| [🛒 AI E-Commerce](https://next-e-commerce1.vercel.app/) | Retail SaaS | 🟢 Live | +60% CVR |
+| Project | Role | Status | Live Link |
+|:--------|:-----|:------:|:---------:|
+| 🏢 **Winflect** | Co-Founder & Lead Engineer | 🟢 Live | [winflect.com](https://winflect.com/) |
+| 🎓 **LMS Master** | Builder — AI EdTech Platform | 🟢 Live | [lms-master.vercel.app](https://lms-master.vercel.app/) |
+| 🤝 **CallMe2Serve** | Collaborating — Services Marketplace | 🟢 Live | [callme2serve.com](https://callme2serve.com/) |
+| 🏨 **Hotel Booking** | Builder — Hospitality System | 🟢 Live | [View Project](https://mfaisal125.github.io/resume/) |
+| 🛒 **AI E-Commerce** | Builder — Retail & AI Chatbot | 🟢 Live | [e-commerce125.vercel.app](https://e-commerce125.vercel.app/) |
 
 </div>
 
 ---
 
-### 🌐 Winflect — Co-Founder & Lead Engineer
+### 🌐 Winflect — SaaS Enterprise Studio
 
 <table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-**→ [winflect.com](https://winflect.com/)**
+**[→ winflect.com](https://winflect.com/)** | *Co-Founder & Lead Engineer*
 
-A full-spectrum **SaaS enterprise studio** where I lead the engineering of scalable cloud platforms, custom workflow automation engines, and enterprise-grade digital solutions for global clients.
+A full-spectrum **SaaS enterprise studio** delivering cloud-native platforms, workflow automation engines, and enterprise-grade digital solutions for global clients.
 
-**What I built:**
-- 🔐 Secure multi-tenant SaaS architecture with role-based access control
-- ⚙️ CI/CD pipelines for automated deployment & zero-downtime releases
-- 📊 Real-time analytics dashboards and custom reporting engines
-- 🌍 International client delivery with 99.9% uptime SLAs
-- 🤝 Full-cycle product ownership: design → architecture → deployment
+**What I engineered:**
+- 🔐 Secure **multi-tenant SaaS** architecture with RBAC
+- ⚙️ **CI/CD pipelines** — zero-downtime releases on AWS
+- 📊 **Real-time analytics** dashboards & reporting engines
+- 🌍 International client delivery with **99.9% uptime SLAs**
+- 🤝 Full product ownership: **design → architecture → deployment**
 
-    </td>
-    <td width="40%" valign="top" align="center">
+</td>
+<td width="40%" valign="top" align="center">
 
 ```
- WINFLECT TECH STACK
- ┌────────────────────┐
- │ Next.js + TypeScript│
- │ Node.js + Express  │
- │ PostgreSQL + Redis  │
- │ AWS (EC2, S3, RDS) │
- │ Docker + GitHub CI │
- │ Tailwind CSS       │
- └────────────────────┘
+  ╔══ WINFLECT STACK ═════╗
+  ║  Next.js + TypeScript  ║
+  ║  Node.js + Express     ║
+  ║  PostgreSQL + Redis    ║
+  ║  AWS · EC2 · S3 · RDS  ║
+  ║  Docker + GitHub CI    ║
+  ║  Tailwind CSS          ║
+  ╚═══════════════════════╝
 ```
-**Metrics:**
-`✅ Multi-tenant Architecture`
-`✅ Enterprise Security Layer`
-`✅ Global CDN Delivery`
 
-    </td>
-  </tr>
+![Multi-tenant](https://img.shields.io/badge/✅-Multi--tenant_Arch-0f0c29?style=flat-square&labelColor=302b63)
+![Security](https://img.shields.io/badge/✅-Enterprise_Security-0f0c29?style=flat-square&labelColor=302b63)
+![CDN](https://img.shields.io/badge/✅-Global_CDN_Delivery-0f0c29?style=flat-square&labelColor=302b63)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -141,165 +163,117 @@ A full-spectrum **SaaS enterprise studio** where I lead the engineering of scala
 ### 🎓 LMS Master — AI-Powered Learning Management System
 
 <table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-**→ [lms-master.vercel.app](https://lms-master.vercel.app/)**
+**[→ lms-master.vercel.app](https://lms-master.vercel.app/)** | *Builder & Architect*
 
-An enterprise-grade **AI Learning Management System** designed for modern educational institutions. Features intelligent course crafting, automated exam generation via LLM, real-time student analytics, and gamified progress tracking.
+An enterprise-grade **AI Learning Management System** with intelligent course crafting, LLM-powered exam generation, real-time student analytics, and gamified progress tracking.
 
-**Core Features Built:**
-- 🤖 LLM-powered question bank & adaptive quiz engine
-- 📈 Student performance heatmaps with predictive analytics
-- 🏅 Blockchain-inspired certificate generation system
-- 💬 24/7 AI Tutor chatbot with course-context awareness
-- 🏫 Multi-institution management panel with role hierarchies
-- 📱 Fully responsive — mobile, tablet, desktop optimized
+**Core Systems Built:**
+- 🤖 **LLM-powered quiz engine** — AI question bank generation
+- 📈 Student **performance heatmaps** with predictive analytics
+- 🏅 Automated **certificate generation** system
+- 💬 **24/7 AI Tutor** chatbot with course-context awareness
+- 🏫 **Multi-institution** management panel with role hierarchies
 
-    </td>
-    <td width="40%" valign="top" align="center">
+</td>
+<td width="40%" valign="top" align="center">
 
 ```
-  LMS MASTER STACK
- ┌────────────────────┐
- │ Next.js 15 + React │
- │ TypeScript         │
- │ Supabase (BaaS)    │
- │ OpenAI / Groq API  │
- │ Framer Motion      │
- │ Tailwind CSS v4    │
- │ Recharts Analytics │
- └────────────────────┘
+  ╔══ LMS MASTER STACK ═══╗
+  ║  Next.js 15 + React    ║
+  ║  TypeScript            ║
+  ║  Supabase (BaaS)       ║
+  ║  OpenAI / Groq API     ║
+  ║  Framer Motion         ║
+  ║  Tailwind CSS v4       ║
+  ║  Recharts Analytics    ║
+  ╚═══════════════════════╝
 ```
-**Impact:**
-`🎓 1000+ Active Learners`
-`⚡ AI-Generated Exams`
-`📜 Auto Certification`
 
-    </td>
-  </tr>
+![AI](https://img.shields.io/badge/🤖-AI_Exam_Generator-0f0c29?style=flat-square&labelColor=302b63)
+![Users](https://img.shields.io/badge/🎓-1000%2B_Learners-0f0c29?style=flat-square&labelColor=302b63)
+![Certs](https://img.shields.io/badge/📜-Auto_Certification-0f0c29?style=flat-square&labelColor=302b63)
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🤝 CallMe2Serve — Professional Services Marketplace
+### 🤝 CallMe2Serve & Other Projects
 
 <table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**→ [callme2serve.com](https://callme2serve.com/)**
+**[🤝 CallMe2Serve](https://callme2serve.com/)** — *Services Marketplace*
 
-A **real-time B2B & B2C services marketplace** connecting skilled professionals with enterprise and individual clients. Features intelligent provider matching, automated scheduling, and live invoice management.
+Real-time B2B/B2C marketplace connecting professionals with clients. Features intelligent booking calendars, Stripe payments, and provider analytics dashboards.
 
-**Engineering Highlights:**
-- 📅 Real-time booking calendar with conflict detection logic
-- 💳 Stripe-integrated secure payment & invoice workflows
-- 🔔 Instant push notifications & live order status updates
-- 🗂️ Service provider analytics & earnings dashboards
-- ⭐ Review & rating system with moderation tools
-- 🌐 SEO-optimized category pages with dynamic routing
+- 📅 Real-time booking with conflict detection
+- 💳 Stripe-integrated secure invoice workflow
+- ⭐ Review, rating & moderation system
+- **Stack:** `React` `Next.js` `PostgreSQL` `Stripe`
 
-    </td>
-    <td width="40%" valign="top" align="center">
+</td>
+<td width="50%" valign="top">
 
-```
- CALLME2SERVE STACK
- ┌────────────────────┐
- │ React.js + Next.js │
- │ TypeScript         │
- │ REST APIs          │
- │ PostgreSQL         │
- │ Stripe Payments    │
- │ Tailwind CSS       │
- └────────────────────┘
-```
-**Highlights:**
-`📅 Live Booking Engine`
-`💳 Stripe Payments`
-`⭐ Review System`
+**[🛒 AI E-Commerce](https://e-commerce125.vercel.app/)** — *Retail Platform*
 
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏨 Hotel Booking Suite &nbsp;|&nbsp; 🛒 AI E-Commerce Platform
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-**→ [Hotel Booking Suite](https://next-hotel-app.vercel.app/)**
-
-Hospitality management system with smart room availability tracking, automated guest communications, reservation logs, and detailed financial reporting.
-
-- 🏨 Room lifecycle & inventory management
-- 📊 Occupancy analytics & revenue dashboards
-- 🔐 Guest authentication & profile management
-- **Stack:** `Next.js` `MongoDB` `REST APIs` `Tailwind`
-
-    </td>
-    <td width="50%" valign="top">
-
-**→ [AI E-Commerce Platform](https://next-e-commerce1.vercel.app/)**
-
-Full-featured retail platform with a 24/7 AI chatbot for product discovery, smart cart management, Stripe checkout, and real-time inventory dashboards.
+Full-featured store with 24/7 AI chatbot for product discovery, smart cart management, and Stripe checkout.
 
 - 🛒 AI product recommendation engine
-- 💬 Conversational AI for support & upselling
-- 📦 Real-time order tracking & status updates
-- **Stack:** `Next.js` `Node.js` `MongoDB` `Stripe` `AI APIs`
+- 💬 Conversational AI upselling bot
+- 📦 Real-time order & inventory tracking
+- **Stack:** `Next.js` `Node.js` `MongoDB` `AI APIs`
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Full Technology Arsenal
 
-### ⚡ Frontend Engineering
+### ⚡ Frontend & UI Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,framer" alt="Frontend Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,framer"/>
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend, APIs & Real-time
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,laravel,php,python" alt="Backend Stack"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,laravel,php,python"/>
 </p>
 
-### 🗄️ Databases & DevOps
+### 🗄️ Databases, Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,docker,supabase,firebase" alt="Database & DevOps"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,docker,supabase,firebase"/>
 </p>
 
-### 🛡️ Security & Design Tools
+### 🛡️ Security, Design & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,postman,vscode" alt="Security & Tools"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,postman,vscode,appwrite,photoshop"/>
 </p>
 
-### 🧠 Currently Learning / Expanding
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,rust,go" alt="Learning"/>
-</p>
+---
+
+### 📊 Proficiency Matrix
 
 <div align="center">
 
-**Proficiency Levels**
-
-| Skill | Proficiency | Experience |
-|-------|-------------|------------|
-| React / Next.js | ████████████ 98% | 4+ Years |
-| TypeScript | ███████████░ 92% | 3+ Years |
-| Node.js / Express | ██████████░░ 88% | 4+ Years |
-| MongoDB / PostgreSQL | ██████████░░ 85% | 3+ Years |
-| AWS Cloud | ████████░░░░ 75% | 2+ Years |
-| Cybersecurity (CEH) | █████████░░░ 80% | 2+ Years |
-| Docker / DevOps | ████████░░░░ 72% | 2+ Years |
+| Technology | Level | Years | Rating |
+|:-----------|:-----:|:-----:|:-------|
+| React / Next.js | Expert | 4+ | `████████████` **98%** |
+| TypeScript | Advanced | 3+ | `███████████░` **92%** |
+| Node.js / Express | Advanced | 4+ | `██████████░░` **88%** |
+| MongoDB / PostgreSQL | Advanced | 3+ | `██████████░░` **85%** |
+| AWS Cloud Services | Intermediate | 2+ | `████████░░░░` **75%** |
+| Cybersecurity (CEH) | Advanced | 2+ | `█████████░░░` **80%** |
+| Docker / DevOps | Intermediate | 2+ | `████████░░░░` **72%** |
 
 </div>
 
@@ -309,61 +283,62 @@ Full-featured retail platform with a 24/7 AI chatbot for product discovery, smar
 
 ## 📊 GitHub Analytics Dashboard
 
-<table border="0" width="100%" cellpadding="4" cellspacing="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=mfaisal125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=4f46e5&text_color=94a3b8&include_all_commits=true&count_private=true&custom_title=Faisal's+GitHub+Stats" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfaisal125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfaisal125&theme=tokyonight&hide_border=true&background=0d1117&ring=4f46e5&fire=f59e0b&currStreakLabel=38bdf8&sideNums=94a3b8&sideLabels=94a3b8&dates=94a3b8&stroke=4f46e5" alt="GitHub Streak"/>
-    </td>
-  </tr>
+<table border="0" width="100%" cellspacing="8">
+<tr>
+<td width="50%" align="center" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=mfaisal125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=302b63&text_color=a0c4ff&include_all_commits=true&count_private=true&custom_title=Faisal's+GitHub+Stats" />
+</td>
+<td width="50%" align="center" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfaisal125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=a0c4ff&langs_count=8" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfaisal125&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=f59e0b&currStreakLabel=00d2ff&sideNums=a0c4ff&sideLabels=a0c4ff&dates=6b7280" width="70%"/>
+</td>
+</tr>
 </table>
 
-### 📈 Contribution Activity Graph
+### 📈 Live Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfaisal125&bg_color=0d1117&color=38bdf8&line=4f46e5&point=f59e0b&area=true&area_color=4f46e520&hide_border=true&custom_title=Muhammad%20Faisal's%20Contribution%20Graph" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfaisal125&bg_color=0d1117&color=00d2ff&line=302b63&point=00d2ff&area=true&area_color=302b6340&hide_border=true&custom_title=Muhammad%20Faisal%20—%20Contribution%20Graph" width="100%"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-## 💼 Professional Journey
+## 💼 Career Timeline & Professional Journey
 
 <details open>
-  <summary><b>📅 Career Timeline</b></summary>
-  <br/>
+<summary><b>📅 Full Career Timeline (Click to Expand)</b></summary>
+<br/>
 
 ```
-2024 – Present │ Co-Founder & Lead Engineer at Winflect
-               │ ├─ Building SaaS cloud platforms for global clients
-               │ ├─ Architecting multi-tenant enterprise systems
-               │ └─ Leading end-to-end product engineering
-
-2023 – Present │ Full Stack Developer (Freelance)
-               │ ├─ 20+ Projects Delivered Globally
-               │ ├─ 95%+ Client Satisfaction Rate
-               │ └─ React, Next.js, Node.js, MERN Stack
-
-2022 – 2023    │ Full Stack Developer at Techno Sphere (Pakistan)
-               │ ├─ Scaled client web platforms (+25% engagement)
-               │ ├─ Designed and maintained REST & GraphQL APIs
-               │ ├─ Led CI/CD pipeline management on AWS
-               │ └─ Mentored junior developers on MERN best practices
-
-2020 – 2024    │ BS Information Technology
-               │ University of Punjab (PU), Lahore — Graduated 2024
-
-2023           │ Certified Ethical Hacker (CEH) — EC-Council ✅
-               │ Expertise: Pen Testing, OWASP, Network Security
+ 2024 – Present ║ 🏢 Co-Founder & Lead Engineer @ Winflect
+                ║    ├─ Building SaaS cloud platforms for global enterprise clients
+                ║    ├─ Architecting multi-tenant systems with AWS infrastructure
+                ║    ├─ Leading full product engineering from design → deployment
+                ║    └─ 99.9% uptime SLA across all production systems
+                ║
+ 2023 – Present ║ 🚀 Full Stack Developer (Freelance — International)
+                ║    ├─ 20+ Projects delivered globally with 95%+ satisfaction rate
+                ║    ├─ React, Next.js, Node.js, MERN & TypeScript stack
+                ║    └─ Specialized in SaaS, marketplaces & e-commerce platforms
+                ║
+ 2022 – 2023    ║ 💻 Full Stack Developer @ Techno Sphere, Pakistan
+                ║    ├─ Scaled web platforms (+25% user engagement improvement)
+                ║    ├─ Designed high-throughput REST & GraphQL APIs
+                ║    ├─ Managed CI/CD deployment pipelines on AWS
+                ║    └─ Mentored junior devs — reduced bugs by 20%
+                ║
+ 2020 – 2024    ║ 🎓 BS Information Technology
+                ║    └─ University of Punjab (PU), Lahore — Graduated 2024
+                ║
+ 2023           ║ 🛡️ Certified Ethical Hacker (CEH) — EC-Council ✅
+                ║    └─ Penetration Testing · OWASP · Network Security · Secure Code
 ```
 
 </details>
@@ -371,18 +346,18 @@ Full-featured retail platform with a 24/7 AI chatbot for product discovery, smar
 ---
 
 <details>
-  <summary><b>📈 Impact Metrics & Business Results</b></summary>
-  <br/>
+<summary><b>📈 Business Impact & Key Metrics</b></summary>
+<br/>
 
 <div align="center">
 
 | Metric | Result | Context |
-|--------|--------|---------|
-| 🚀 User Engagement | **+25%** | Optimized UI performance across client apps |
-| 💳 Checkout CVR | **+60%** | AI chatbot integration & streamlined flow |
-| 🤝 Client Satisfaction | **95%+** | Freelance project delivery rate |
-| ⏱️ Bug Reduction | **-20%** | Led QA testing & monitoring workflows |
-| 📈 Client Growth | **+30%** | Pixel-perfect UI/UX delivery & retention |
+|:-------|:------:|:--------|
+| 📊 User Engagement | **+25%** | Optimized UI performance across client platforms |
+| 💳 Checkout Conversion | **+60%** | AI chatbot + streamlined payment flows |
+| 🤝 Client Satisfaction | **95%+** | Consistent delivery on all freelance contracts |
+| 🐛 Bug Reduction | **−20%** | Led QA & monitoring workflows at Techno Sphere |
+| 📈 Client Retention | **+30%** | Pixel-perfect UI/UX implementation |
 | 🌐 Uptime SLA | **99.9%** | AWS infrastructure management at Winflect |
 
 </div>
@@ -391,33 +366,37 @@ Full-featured retail platform with a 24/7 AI chatbot for product discovery, smar
 ---
 
 <details>
-  <summary><b>🛡️ Security Expertise (CEH)</b></summary>
-  <br/>
+<summary><b>🛡️ Security Expertise — Certified Ethical Hacker (CEH)</b></summary>
+<br/>
 
-As a **Certified Ethical Hacker (EC-Council)**, I bring a security-first mindset to every line of code I write:
+As a **CEH-certified** engineer, I bring a security-first approach to every line of code:
 
-- 🔍 **Web Application Penetration Testing** — OWASP Top 10 remediation
-- 🌐 **Network Security Analysis** — Vulnerability assessment & threat modeling
+- 🔍 **Web Application Pen Testing** — OWASP Top 10 vulnerability remediation
+- 🌐 **Network Security Analysis** — Threat modeling & assessment reporting
 - 🔐 **Secure Architecture Design** — JWT, OAuth 2.0, RBAC, API gateway hardening
-- 🛡️ **Code-Level Security Reviews** — SQL injection, XSS, CSRF prevention
-- 📊 **Security Compliance** — GDPR, data encryption standards in production
+- 🛡️ **Code-Level Security Reviews** — SQL injection, XSS, CSRF mitigation
+- 📊 **Compliance Standards** — GDPR, data encryption in production environments
 
 </details>
 
 ---
 
 <details>
-  <summary><b>🎯 What I'm Currently Building</b></summary>
-  <br/>
+<summary><b>🎯 Currently Building (June 2026)</b></summary>
+<br/>
 
 ```
-🏗️  ACTIVE BUILDS (June 2026)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- LMS Master v2.0     → AI adaptive learning engine (Go-Live Q3 2026)
- Winflect CMS        → Headless CMS for enterprise clients
- Winflect Analytics  → Custom business intelligence dashboard
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ╔══════════════════════════════════════════════════════╗
+  ║          🏗️  ACTIVE BUILD DASHBOARD — 2026           ║
+  ╠══════════════════════════════════════════════════════╣
+  ║  LMS Master v2.0    →  AI adaptive engine   Q3 2026  ║
+  ║  Winflect CMS       →  Headless enterprise  In Dev   ║
+  ║  Winflect Analytics →  BI dashboard suite   In Dev   ║
+  ╚══════════════════════════════════════════════════════╝
 ```
+
+- 🌱 Currently learning: **Kubernetes, Terraform, AI Agents**
+- 🔭 Exploring: **LLM fine-tuning, RAG pipelines, Edge Computing**
 
 </details>
 
@@ -425,19 +404,17 @@ As a **Certified Ethical Hacker (EC-Council)**, I bring a security-first mindset
 
 ---
 
-## 🤝 Let's Build Something Exceptional
+## 🌐 Let's Connect & Build Together
 
 <p align="center">
   <a href="https://linkedin.com/in/m-faisal125/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
   <a href="mailto:mfaisal441254@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://winflect.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Winflect-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Winflect"/>
+    <img src="https://img.shields.io/badge/Visit%20Winflect-0f0c29?style=for-the-badge&logo=vercel&logoColor=00d2ff"/>
   </a>
 </p>
 
@@ -445,11 +422,11 @@ As a **Certified Ethical Hacker (EC-Council)**, I bring a security-first mindset
   <i>💡 Available for: SaaS Collaborations · Contract Projects · Technical Consulting · Co-Founder Partnerships</i>
 </p>
 
-<!-- ───── FOOTER WAVE ───── -->
+<!-- ══ FOOTER WAVE ══ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=4F46E5&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8C;Let's+connect+and+build+together+%F0%9F%9A%80;mfaisal441254%40gmail.com" alt="Footer Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=00D2FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+✨+|+mfaisal441254%40gmail.com;🚀+Building+the+future+one+commit+at+a+time...;⭐+If+you+like+my+work%2C+leave+a+star!" alt="Footer typing"/>
 </p>
