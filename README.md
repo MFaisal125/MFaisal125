@@ -1,6 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--            MUHAMMAD FAISAL ✦ ELITE DEVELOPER PROFILE          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ══ HERO HEADER ══ -->
 <p align="center">
@@ -9,82 +6,87 @@
 
 <!-- ══ ANIMATED TYPING ══ -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&width=700&height=60&lines=🚀+Co-Founder+%40+Winflect+—+Enterprise+SaaS;🧠+Architecting+AI-Powered+LMS+%26+EdTech;🔐+Certified+Ethical+Hacker+(CEH)+✅;⚡+MERN+%7C+Next.js+%7C+TypeScript+%7C+AWS;🌍+Pakistan+%7C+Building+Global+Products;💼+Open+to+Contracts+%26+Collaborations" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Co-Founder+%40+Winflect+%E2%80%94+Enterprise+SaaS;Architecting+AI-Powered+LMS+%26+EdTech+Platforms;Certified+Ethical+Hacker+(CEH)+%E2%9C%85;MERN+Stack+%7C+Next.js+%7C+TypeScript+%7C+AWS;Building+Global+Products+from+Pakistan;Open+to+Contracts+%26+Collaborations" alt="Typing SVG"/>
+</p>
+
+<!-- ══ CONNECT LINKS ══ -->
+<p align="center">
+  <a href="https://linkedin.com/in/m-faisal125/" target="_blank">
+    <img height="38" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="mailto:mfaisal441254@gmail.com">
+    <img height="38" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  </a>
+  <a href="https://winflect.com/" target="_blank">
+    <img height="38" src="https://img.shields.io/badge/-Winflect.com-00d2ff?style=flat-square&logo=vercel&logoColor=0f0c29&labelColor=00d2ff"/>
+  </a>
+  <a href="https://lms-master.vercel.app/" target="_blank">
+    <img height="38" src="https://img.shields.io/badge/-LMS%20Master-302b63?style=flat-square&logo=academia&logoColor=00d2ff&labelColor=302b63"/>
+  </a>
+  <a href="https://callme2serve.com/" target="_blank">
+    <img height="38" src="https://img.shields.io/badge/-CallMe2Serve-24243e?style=flat-square&logo=handshake&logoColor=00d2ff&labelColor=24243e"/>
+  </a>
+  <a href="https://github.com/MFaisal125" target="_blank">
+    <img height="38" src="https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white&labelColor=171515"/>
   </a>
 </p>
 
-<!-- ══ SOCIAL BADGES ══ -->
+<!-- ══ STATUS ROW ══ -->
 <p align="center">
-  <a href="https://linkedin.com/in/m-faisal125/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:mfaisal441254@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://winflect.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Winflect-%230f0c29?style=for-the-badge&logo=vercel&logoColor=00d2ff" alt="Winflect"/>
-  </a>&nbsp;
-  <a href="https://lms-master.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/LMS%20Master-302b63?style=for-the-badge&logo=bookstack&logoColor=00d2ff" alt="LMS Master"/>
-  </a>&nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00d2ff?style=for-the-badge&logo=checkmarx&logoColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/Gujranwala%2C%20Pakistan-302b63?style=for-the-badge&logo=googlemaps&logoColor=00d2ff"/>
+  <img src="https://img.shields.io/badge/CEH%20Certified-0f0c29?style=for-the-badge&logo=hackthebox&logoColor=00d2ff"/>
   <img src="https://komarev.com/ghpvc/?username=mfaisal125&style=for-the-badge&color=302b63&label=PROFILE+VIEWS&labelColor=0f0c29"/>
-</p>
-
-<!-- ══ STATUS PILLS ══ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/💼_Status-Open%20to%20Work-00d2ff?style=flat-square&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/📍_Location-Gujranwala%2C%20Pakistan%20🇵🇰-302b63?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🧠_Role-Co--Founder%20%40%20Winflect-302b63?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🔐_Security-CEH%20Certified%20✅-00d2ff?style=flat-square&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/⏳_Experience-4%2B%20Years-302b63?style=flat-square"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-## 🧬 Who Am I?
+## 👨‍💻 About Me
 
 <table border="0" width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="56%" valign="top">
 
-```ts
-const MuhammadFaisal = {
-  title   : "Co-Founder @ Winflect | Full Stack Engineer",
-  location: "Gujranwala, Pakistan 🇵🇰",
-  education: "BS Information Technology",
-             // University of Punjab (PU, Lahore) — 2024
-  security: "Certified Ethical Hacker (CEH) — EC-Council ✅",
+### Hi, I'm Muhammad Faisal! 👋
 
-  currentBuilds: [
-    "Winflect — Enterprise SaaS Platform",
-    "LMS Master v2 — AI Learning System",
-    "CallMe2Serve — Services Marketplace",
-  ],
+A results-driven **Full Stack Software Engineer** and **Co-Founder of Winflect** — building enterprise SaaS platforms, AI-powered EdTech systems, and scalable digital products from Pakistan for global clients.
 
-  expertise: [
-    "System Architecture & API Design",
-    "SaaS Product Engineering",
-    "AI & LLM Integration",
-    "Performance Optimization",
-    "Web Application Security",
-  ],
+---
 
-  contact : "mfaisal441254@gmail.com",
-  motto   : "Code with purpose. Ship with confidence. 🚀",
-};
-```
+**🏢 Current Role**
+- Co-Founder & Lead Engineer @ **[Winflect](https://winflect.com/)** — Enterprise SaaS Studio
+
+**🚀 Currently Building**
+- 🎓 **[LMS Master](https://lms-master.vercel.app/)** — AI-Powered Learning Management System
+- 🤝 **[CallMe2Serve](https://callme2serve.com/)** — Professional Services Marketplace
+
+**🎓 Education & Credentials**
+- BS Information Technology — University of Punjab, Lahore (2024)
+- 🔐 **Certified Ethical Hacker (CEH)** — EC-Council ✅
+
+**💡 Core Expertise**
+- System Architecture & API Design
+- SaaS Product Engineering
+- AI & LLM Integration
+- Web Application Security (CEH)
+- Performance Optimization at Scale
+
+**📍 Location:** Gujranwala, Pakistan 🇵🇰
+**📫 Contact:** mfaisal441254@gmail.com
+
+> *"Code with purpose. Ship with confidence. Build for scale."* 🚀
 
 </td>
-<td width="42%" valign="top" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFuMHV1bzN3bGgzcjdkM2ljaWYyam1lM296YTg5MzZvaG10NTdjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehWUI4Jgpyf8sVWYdn/giphy.webp" width="100%" style="max-width:340px; border-radius:16px;" alt="Coding GIF"/>
+<td width="44%" valign="top" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFuMHV1bzN3bGgzcjdkM2ljaWYyam1lM296YTg5MzZvaG10NTdjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehWUI4Jgpyf8sVWYdn/giphy.webp" width="100%" style="max-width:340px; border-radius:12px;" alt="Coding GIF"/>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/🌐-winflect.com-00d2ff?style=for-the-badge&labelColor=0f0c29"/><br/>
-  <img src="https://img.shields.io/badge/📧-mfaisal441254@gmail.com-302b63?style=for-the-badge"/>
+  <a href="https://winflect.com/"><img src="https://img.shields.io/badge/winflect.com-00d2ff?style=for-the-badge&logo=vercel&logoColor=0f0c29"/></a><br/><br/>
+  <a href="https://lms-master.vercel.app/"><img src="https://img.shields.io/badge/LMS%20Master-302b63?style=for-the-badge&logo=graduation-cap&logoColor=00d2ff"/></a><br/><br/>
+  <img src="https://img.shields.io/badge/CEH%20Certified-0f0c29?style=for-the-badge&logo=hackthebox&logoColor=00d2ff"/>
 </td>
 </tr>
 </table>
